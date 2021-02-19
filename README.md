@@ -1,0 +1,1 @@
+![alt text](js_funcional.PNG)
